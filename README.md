@@ -26,7 +26,7 @@ Olá, pessoal! 👋 <br>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-kappa-azure-53.vercel.app/api?username=venitism&show_icons=true&theme=dark&custom_title=Victor%20Veniti%20GitHub%20Stats" 
   />
@@ -34,7 +34,7 @@ Olá, pessoal! 👋 <br>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="140" 
+      height="130" 
       src="https://github-readme-stats-kappa-azure-53.vercel.app/api/top-langs?username=venitism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
   />
 </p>
