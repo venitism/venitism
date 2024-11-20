@@ -34,7 +34,7 @@ Olá, pessoal! 👋 <br>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="140" 
       src="https://github-readme-stats-kappa-azure-53.vercel.app/api/top-langs?username=venitism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
   />
 </p>
