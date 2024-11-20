@@ -13,28 +13,31 @@ Olá, pessoal! 👋 <br>
 🎓 Sou formado em Análise e Desenvolvimento de Sistemas. <br>
 (I have a degree in Systems Analysis and Development.)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          src="https://github-readme-stats-kappa-azure-53.vercel.app/api?username=venitism&show_icons=true&theme=dark&custom_title=Victor%20Veniti%20GitHub%20Stats" 
-          alt="GitHub Stats" 
-          width="600"
-        />
-      </a>
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats-kappa-azure-53.vercel.app/api/top-langs?username=venitism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" 
-        alt="Languages Graph" 
-        height="150"
-      />
-    </td>
-  </tr>
-</table>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats-kappa-azure-53.vercel.app/api?username=venitism&show_icons=true&theme=dark&custom_title=Victor%20Veniti%20GitHub%20Stats)](https://github.com/venitism)-->
+<!-- <img src="https://github-readme-stats-kappa-azure-53.vercel.app/api/top-langs?username=venitism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"/> -->
 
 
+
+
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-kappa-azure-53.vercel.app/api?username=venitism&show_icons=true&theme=dark&custom_title=Victor%20Veniti%20GitHub%20Stats" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats-kappa-azure-53.vercel.app/api/top-langs?username=venitism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
+  />
+  
+</p>
 
 <!--
 <div align="center">
